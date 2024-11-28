@@ -25,7 +25,7 @@ log-analyzer/
 ├── logs/                         # Directory for log files
 │   └── access_log                # Sample log file
 ├── report/                       # Directory for documentation
-│   └── TermProject.pdf   # Project report
+│   └── Project.pdf               # Project report
 ├── README.md                     # Project documentation
 ```
 
