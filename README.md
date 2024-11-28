@@ -18,6 +18,7 @@ A C++ project that analyzes web server logs to identify the top 10 most visited 
 - **Libraries:** `<list>`, `<unordered_map>`, `<vector>`, `<algorithm>`, `<ctime>`
 
 ## File Structure
+```plaintext
 log-analyzer/
 ├── src/                          # Source code directory
 │   └── main.cpp                  # Main C++ file for the project
@@ -26,6 +27,7 @@ log-analyzer/
 ├── report/                       # Directory for documentation
 │   └── TermProject.pdf   # Project report
 ├── README.md                     # Project documentation
+```
 
 ## How to Use
 1. Clone the repository:
