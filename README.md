@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Log Analyzer
 
 A C++ project that analyzes web server logs to identify the top 10 most visited pages using a custom hash table and `std::unordered_map`. The project compares the performance of both implementations and provides execution time statistics.
@@ -63,3 +64,7 @@ To save screenshots:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# log-analyzer
+A C++ project analyzing web server logs to identify the top 10 most visited pages using custom and standard hash table implementations.
+>>>>>>> 7cb49d3e1ea033a36db6b1ccca199e579bfbdca3
