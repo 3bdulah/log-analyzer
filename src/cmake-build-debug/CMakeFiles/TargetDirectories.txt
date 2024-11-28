@@ -1,0 +1,3 @@
+C:/Users/Abdullah/Documents/2nd Year 1st Term/CMP2003/Project/log-analyzer/src/cmake-build-debug/CMakeFiles/src.dir
+C:/Users/Abdullah/Documents/2nd Year 1st Term/CMP2003/Project/log-analyzer/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Abdullah/Documents/2nd Year 1st Term/CMP2003/Project/log-analyzer/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
