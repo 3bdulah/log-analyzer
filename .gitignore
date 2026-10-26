@@ -1,0 +1,18 @@
+# CMake build output
+build/
+cmake-build-*/
+src/cmake-build-*/
+
+# IDE settings
+.idea/
+**/.idea/
+
+# Compiled artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
