@@ -31,20 +31,19 @@ log-analyzer/
 
 ## How to Use
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/3bdulah/log-analyzer.git
 2. Navigate to the project folder:
    cd log-analyzer
 3. Build the project using CMake:
-   mkdir build && cd build
-   cmake ..
-   make
+   cmake -S src -B build
+   cmake --build build
 4. Run the program:
-   ./log-analyzer
+   ./build/src
 5. Place your web server log file in the `logs/` directory, ensuring the file path in `main.cpp` is:
    const string filePath = "logs/access_log";
 
 ## Performance Results
-The performance results below compare the execution times of the custom hash table and `std::unordered_map` implementations:
+The repository's recorded sample timings are shown below for reference. The original notes do not specify the hardware, compiler flags, or input size, so these numbers should not be treated as a reproducible benchmark:
 
 - **Custom Hash Table:** 1.23 seconds
 - **std::unordered_map:** 0.98 seconds
