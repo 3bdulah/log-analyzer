@@ -14,7 +14,7 @@ A C++ project that analyzes web server logs to identify the top 10 most visited 
 ## Technologies Used
 - **Programming Language:** C++
 - **IDE:** CLion
-- **Build System:** CMake
+- **Build System:** CMake 3.27+ (required by `src/CMakeLists.txt`)
 - **Libraries:** `<list>`, `<unordered_map>`, `<vector>`, `<algorithm>`, `<ctime>`
 
 ## File Structure
